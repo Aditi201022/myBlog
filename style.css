@@ -1,0 +1,31 @@
+body {
+	background: rgb(58, 180, 176);
+	background: linear-gradient(90deg, rgba(58, 180, 176, 1) 28%, rgba(253, 29, 166, 0.7122199221485469) 53%, rgba(252, 176, 69, 1) 100%);
+	color: #FFEBEE;
+	text-align: center;
+}
+
+img {
+	border-radius: 50%;
+	width: 500x;
+}
+
+.menu {
+	list-style: none;
+	font-family: cursive;
+	float: right;
+	top: 10px;
+	right: 30px;
+	cursor: pointer;
+	color: black;
+	margin: 0;
+	padding: 0;
+}
+
+li:hover {
+	background-color: aqua;
+}
+
+li {
+	display: inline;
+}
