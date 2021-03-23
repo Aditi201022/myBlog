@@ -34,3 +34,11 @@ li {
 	background-color: aquamarine;
 	color: black;
 }
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+
+
